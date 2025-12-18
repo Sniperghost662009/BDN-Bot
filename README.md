@@ -1,7 +1,7 @@
-Para usar en Termux ingresa estos comandos
-pkg install nodejs-lts git ffmpeg libwebp -y
-git clone https://github.com/Sniperghost662009/BDN-Bot.git
-cd BDN-Bot
-npm install
-Para iniciar escribe:
-node index.js
+- Para usar en Termux ingresa estos comandos
+- pkg install nodejs-lts git ffmpeg libwebp -y
+- git clone https://github.com/Sniperghost662009/BDN-Bot.git
+- cd BDN-Bot
+- npm install
+- Para iniciar escribe:
+- node index.js
