@@ -1,0 +1,15 @@
+# No subir la sesión de WhatsApp (¡CRÍTICO!)
+auth_info/
+sessions/
+auth_info_baileys/
+
+# No subir las librerías pesadas
+node_modules/
+
+# No subir configuraciones con datos sensibles
+settings.json
+.env
+
+# Archivos basura del sistema
+.DS_Store
+npm-debug.log
